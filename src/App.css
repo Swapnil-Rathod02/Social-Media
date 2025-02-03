@@ -1,0 +1,24 @@
+.app-container{
+    display: flex;
+    height: 100vh;
+}
+
+.content{
+    width: 100%;
+    
+}
+.postcard{
+    width: 20rem;
+    margin: 20px;
+}
+.tags{
+    margin: 5px;
+}
+.reaction{
+    height: 5rem;
+    margin-top: 0.7rem;
+}
+.createPost{
+    margin:2rem 5rem ;
+    
+}
